@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="test_view_1" type="id">text_view_1</item>
+    <item name="test_view_2" type="id">text_view_2</item>
+    <item name="test_view_3" type="id">text_view_3</item>
+    <item name="test_view_4" type="id">text_view_4</item>
+    <item name="test_view_5" type="id">text_view_5</item>
+    <item name="test_view_6" type="id">text_view_6</item>
+    <item name="test_view_7" type="id">text_view_7</item>
+    <item name="test_view_8" type="id">text_view_8</item>
+    <item name="test_view_9" type="id">text_view_9</item>
+    <item name="test_view_10" type="id">text_view_10</item>
+    <item name="test_view_11" type="id">text_view_11</item>
+    <item name="test_view_12" type="id">text_view_12</item>
+    <item name="test_view_13" type="id">text_view_13</item>
+    <item name="test_view_14" type="id">text_view_14</item>
+    <item name="test_view_15" type="id">text_view_15</item>
+    <item name="test_view_16" type="id">text_view_16</item>
+    <item name="test_view_17" type="id">text_view_17</item>
+    <item name="test_view_18" type="id">text_view_18</item>
+    <item name="test_view_19" type="id">text_view_19</item>
+    <item name="test_view_20" type="id">text_view_20</item>
+    <item name="test_view_21" type="id">text_view_21</item>
+    <item name="test_view_22" type="id">text_view_22</item>
+    <item name="test_view_23" type="id">text_view_23</item>
+    <item name="test_view_24" type="id">text_view_24</item>
+    <item name="test_view_25" type="id">text_view_25</item>
+    <item name="test_view_26" type="id">text_view_26</item>
+    <item name="test_view_27" type="id">text_view_27</item>
+    <item name="test_view_28" type="id">text_view_28</item>
+</resources>
